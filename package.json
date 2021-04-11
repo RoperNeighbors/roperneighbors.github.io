@@ -51,6 +51,7 @@
   "dependencies": {
     "acorn": "^8.1.0",
     "bufferutil": "^4.0.3",
+    "normalize.css": "^8.0.1",
     "postcss": "^8.2.9",
     "utf-8-validate": "^5.0.4"
   }

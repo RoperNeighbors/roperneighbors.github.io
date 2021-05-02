@@ -58,5 +58,6 @@
     "normalize.css": "^8.0.1",
     "postcss": "^8.2.9",
     "utf-8-validate": "^5.0.4"
-  }
+  },
+  "eslintIgnore": ["webpack.config.js"]
 }
